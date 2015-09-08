@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Genome</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">896214920460279</string>
+    <string name="google_api">AIzaSyBqHs-GZetFszBKKdGiyT66ppRpVkHftRE</string>
+    </resources>
+
