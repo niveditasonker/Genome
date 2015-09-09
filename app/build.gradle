@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "genome.niveditasonker.example.com.genome"
-        minSdkVersion 15
+        minSdkVersion 11
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
@@ -29,4 +29,5 @@ dependencies {
     compile 'com.facebook.android:facebook-android-sdk:4.0.0'
     compile 'com.android.support:support-v4:23.0.1'
     compile 'com.google.android.gms:play-services:7.8.0'
+    compile project(':android-volley-master')
 }
